@@ -129,7 +129,7 @@ export default App
 //* The syntax issue seems to be related to how the comments are written within JSX. JSX does not support single-line comments (//) within elements. Instead, use block comments ({/* comment */)} */
 
 
-// Div ke bahar --> // o r/**/ 
+// Div ke bahar --> // or /**/ 
 // Div ke andar --> {/* comment */)            
 
 
